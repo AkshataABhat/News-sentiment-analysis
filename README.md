@@ -14,3 +14,8 @@ Requirements to be installed:
 ```
 
 
+
+## Screenshots
+
+![App Screenshot](https://github.com/AkshataABhat/News-sentiment-analysis/blob/main/screenshots/Screenshot%202022-12-27%20230403.jpg)
+
